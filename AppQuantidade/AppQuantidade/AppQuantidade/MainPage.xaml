@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundImage="background.jpg"
+             x:Class="AppQuantidade.MainPage">
+
+    <StackLayout>
+
+        <Frame BackgroundColor="White" TranslationY="10" CornerRadius="100" HasShadow="True"  WidthRequest="20" HeightRequest="60">
+            <StackLayout Orientation="Vertical" >
+
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Text="Informe a Km/l do seu veículo:" FontAttributes="Bold" FontSize="18" TextColor="Black" />
+
+
+                <Entry TextChanged="Oper" FontSize="Medium"  x:Name="Zerarcamp_0" PlaceholderColor="Black" Placeholder="Km/l"  Keyboard="Numeric" TextColor="Black" HorizontalTextAlignment="Center" />
+
+            </StackLayout>
+        </Frame>
+
+
+        <Frame BackgroundColor="White" TranslationY="10" CornerRadius="100" HasShadow="True"  WidthRequest="20" HeightRequest="60">
+            <StackLayout Orientation="Vertical"  >
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Text="Preço do combustível:" FontAttributes="Bold" FontSize="18" TextColor="Black"/>
+
+
+                <Entry x:Name="Zerarcamp_1" PlaceholderColor="Black" Placeholder="R$00,00" TextChanged="Oper_1" Keyboard="Numeric" TextColor="Black" HorizontalTextAlignment="Center"/>
+
+            </StackLayout>
+        </Frame>
+
+        <Frame BackgroundColor="White" TranslationY="10" CornerRadius="100" HasShadow="True"  WidthRequest="20" HeightRequest="60">
+            <StackLayout Orientation="Vertical"  >
+
+                <Label HorizontalOptions="Center" VerticalOptions="Center" Text="Km para o destino:" FontAttributes="Bold" FontSize="18" TextColor="Black"/>
+
+
+                <Entry  x:Name="Zerarcamp_2" PlaceholderColor="Black" Placeholder="Km" TextChanged="Oper_2" Keyboard="Numeric" TextColor="Black" HorizontalTextAlignment="Center"/>
+
+            </StackLayout>
+        </Frame>
+
+        <Frame BackgroundColor="White" TranslationY="10" CornerRadius="100" HasShadow="True"  WidthRequest="20" HeightRequest="60">
+            <StackLayout Orientation="Vertical"  >
+                <Label  HorizontalOptions="Center" VerticalOptions="Center" Text="Valor de Pedágio:" FontAttributes="Bold" FontSize="Subtitle" TextColor="Black"/>
+
+
+                <Entry x:Name="Zerarcamp_3" PlaceholderColor="Black" Placeholder="R$00,00" TextChanged="Oper_3" Keyboard="Numeric" TextColor="Black" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+        </Frame>
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="40" TranslationY="20">
+
+
+            <Button CornerRadius="10" Text="Zerar" TextColor="Black" FontSize="15" Clicked="Zerar" BorderWidth="1"  BackgroundColor="#FC7711" WidthRequest="150" HeightRequest="50" />
+            <Button CornerRadius="10" Clicked="Final" Text="Resultado" TextColor="Black" FontSize="15"  BorderWidth="1"  BackgroundColor="#28BF46" WidthRequest="150" HeightRequest="50"  />
+
+        </StackLayout>
+
+        <Frame TranslationY="20"  CornerRadius="100" WidthRequest="20" HeightRequest="50">
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                
+                <Label x:Name="Result" FontSize="40" TextColor="Red"  Background="White"  />
+                
+                </StackLayout>
+
+        </Frame>
+
+
+    </StackLayout>
+
+</ContentPage>

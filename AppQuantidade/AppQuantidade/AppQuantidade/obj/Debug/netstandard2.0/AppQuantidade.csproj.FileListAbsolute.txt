@@ -1,0 +1,45 @@
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.deps.json
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\ref\AppQuantidade.dll
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.AssemblyReference.cache
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfoInputs.cache
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfo.cs
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.CoreCompileInputs.cache
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
+D:\Curso Xamarim\Dev\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\refint\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\Best-Fueld-Xamarim\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.deps.json
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\bin\Debug\netstandard2.0\AppQuantidade.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.csproj.CoreCompileInputs.cache
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\refint\AppQuantidade.dll
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\AppQuantidade.pdb
+C:\Users\erick\OneDrive\Área de Trabalho\ç\AppQuantidade\AppQuantidade\AppQuantidade\obj\Debug\netstandard2.0\ref\AppQuantidade.dll

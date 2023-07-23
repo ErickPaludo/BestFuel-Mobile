@@ -61,10 +61,10 @@
         <Frame TranslationY="20"  CornerRadius="100" WidthRequest="20" HeightRequest="50">
 
             <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
-                
+
                 <Label x:Name="Result" FontSize="40" TextColor="Red"  Background="White"  />
-                
-                </StackLayout>
+
+            </StackLayout>
 
         </Frame>
 

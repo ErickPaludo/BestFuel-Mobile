@@ -19,8 +19,9 @@ public class SplashActivity1
 	public SplashActivity1 ()
 	{
 		super ();
-		if (getClass () == SplashActivity1.class)
+		if (getClass () == SplashActivity1.class) {
 			mono.android.TypeManager.Activate ("AppQuantidade.Droid.SplashActivity1, AppQuantidade.Android", "", this, new java.lang.Object[] {  });
+		}
 	}
 
 

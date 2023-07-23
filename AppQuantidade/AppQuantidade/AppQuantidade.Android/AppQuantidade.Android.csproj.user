@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <SelectedDevice>pixel_5_-_api_30</SelectedDevice>
-    <ActiveDebugProfile>pixel_5_-_api_30</ActiveDebugProfile>
+    <SelectedDevice>Motorola moto g%288%29</SelectedDevice>
+    <ActiveDebugProfile>Motorola moto g%288%29 %28Android 11.0 – API 30%29</ActiveDebugProfile>
     <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
-    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
+    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
     <DefaultDevice>pixel_5_-_api_30</DefaultDevice>
   </PropertyGroup>
 </Project>

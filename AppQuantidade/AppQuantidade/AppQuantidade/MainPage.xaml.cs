@@ -59,10 +59,10 @@ namespace AppQuantidade
 
         private void Zerar(object sender, EventArgs e)
         {
-            Zerarcamp_0.Text = 0.ToString();
-            Zerarcamp_1.Text = 0.ToString();
-            Zerarcamp_2.Text = 0.ToString();
-            Zerarcamp_3.Text = 0.ToString();
+            Zerarcamp_0.Text = string.Empty;
+            Zerarcamp_1.Text = string.Empty;
+            Zerarcamp_2.Text = string.Empty;
+            Zerarcamp_3.Text = string.Empty;
             resultado = 0;
 
 
